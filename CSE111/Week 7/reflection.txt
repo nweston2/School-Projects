@@ -1,0 +1,24 @@
+Please respond thoroughly (at least two sentences for each question) to
+the following three questions.
+
+1. Describe an experience you had this semester where you saw the power of
+functions.
+I learned a lot about functions this semester. I remember one time near the beginning of the
+semester, I was having a hard time figuring out why we needed to use a main function to call
+other functions. I was so used to just writing the code out brute force that it just didn't 
+make sense. Then, as we started using the same function over and over in the same program, it 
+started to click.
+
+
+2. In your judgment, what is the value of test functions?
+Test functions are invaluable. They are a quick, easy way to make sure a function is doing what
+it is supposed to without having to run the whole program, putting inputs in each time.
+
+
+3. Describe your process for troubleshooting and fixing a program that
+has a problem. What is one thing you can do to improve your process?
+If a program isn't working, I first try using print debug functions. They can help identify where 
+the problems are. If that doesn't work, I use the built in "run and debug" ability Visual Code 
+provides. Once I have identified and fixed a problem, I run the problem area through a test 
+function if possible to make sure it is doing things right.
+

@@ -1,0 +1,35 @@
+CSE 111 Proposal for a Student Chosen Program
+
+    (This is a proposal. All proposals are written with our best
+    knowledge at the beginning of a project. As we progress from the
+    beginning to the end of a project, we gain more knowledge, and we
+    change some of our proposed ideas. This is part of completing any
+    project and is fine.  However, we still must write a proposal so
+    that our teachers or supervisors know what we intend to do. Please
+    answer each of the following questions to the best of your
+    knowledge.)
+
+1. What is the title of your program?
+    Dice Roller
+
+2. What real-world problem will your program address or help to solve?
+    Rolling dice
+
+3. What will you learn from developing this program?
+    This program will help me learn how to incorporate the knowledge we've
+    learned so far into using functions to accomplish a goal.
+
+4. What Python modules will your program use?
+    My program will use random and pytest
+
+5. Will you separate your Python program into functions that each
+perform a single task?
+    Yes. In addition to test functions and main, my program will have 
+    functions to get number of dice and number of sides on a die from the user,
+    a function to get the value of a rolled die, and a function to get the total
+    of all dice rolled.
+
+6. Will you write test functions to test at least two of your program
+functions?
+    Yes. I will be able to write test functions for the function that gets the value 
+    of a single rolled die and the function that gets the total of all dice rolled.
